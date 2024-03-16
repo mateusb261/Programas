@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>377</width>
+    <height>291</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Sistema Callidus</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(189, 189, 189);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>377</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuSistema">
+    <property name="title">
+     <string>Sistema</string>
+    </property>
+    <addaction name="actionProduto"/>
+    <addaction name="actionPessoa"/>
+   </widget>
+   <addaction name="menuSistema"/>
+  </widget>
+  <action name="menuCadastro">
+   <property name="text">
+    <string>Cadastrar produto</string>
+   </property>
+  </action>
+  <action name="menuLista">
+   <property name="text">
+    <string>Lista de produto</string>
+   </property>
+  </action>
+  <action name="actionCadastroProduto">
+   <property name="text">
+    <string>Cadastro de produto</string>
+   </property>
+  </action>
+  <action name="menuListaProduto">
+   <property name="text">
+    <string>Lista de produto</string>
+   </property>
+  </action>
+  <action name="actionProduto">
+   <property name="text">
+    <string>Produto</string>
+   </property>
+  </action>
+  <action name="actionFormularioPadrao">
+   <property name="text">
+    <string>Formulário Padrão</string>
+   </property>
+  </action>
+  <action name="actionPessoa">
+   <property name="text">
+    <string>Pessoa</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
