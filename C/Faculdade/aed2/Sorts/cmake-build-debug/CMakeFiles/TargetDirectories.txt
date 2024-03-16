@@ -1,0 +1,3 @@
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/Sorts/cmake-build-debug/CMakeFiles/Sorts.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/Sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/Sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 14 03 2023  Ponteiros 3/cmake-build-debug/CMakeFiles/Atividade_14_03_2023__Ponteiros_3.dir
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 14 03 2023  Ponteiros 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 14 03 2023  Ponteiros 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

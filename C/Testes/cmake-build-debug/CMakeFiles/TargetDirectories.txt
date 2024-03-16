@@ -1,0 +1,3 @@
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Testes/cmake-build-debug/CMakeFiles/Testes.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Testes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Testes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

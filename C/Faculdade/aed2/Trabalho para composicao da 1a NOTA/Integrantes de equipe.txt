@@ -1,0 +1,7 @@
+/*
+   Curso: Sistemas de Informação
+   Disciplina: Algoritmos e Estruturas de Dados 2
+   Aluno(a): Beatriz Damasceno Fernandes;  Matrícula: 2115310003
+   Aluno(a): Mateus Bastos Magalhães Mar;  Matrícula: 2215310063
+   Aluno(a): Monike Freitas De Sousa;      Matrícula: 2115310040
+*/

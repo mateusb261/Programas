@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "24_01_2023__17_10",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "24_01_2023__17_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-24_01_2023__17_10-Debug-17c36cd2cd99b8f68e18.json",
+					"name" : "24_01_2023__17_10",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 24 01 2023 Vetores/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 24 01 2023 Vetores"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Atividade_06_Lista_encadeada",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Atividade_06_Lista_encadeada::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Atividade_06_Lista_encadeada-Debug-b2ff4c514eadba96972c.json",
+					"name" : "Atividade_06_Lista_encadeada",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 06 Lista encadeada/Programa 1/cmake-build-debug",
+		"source" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 06 Lista encadeada/Programa 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

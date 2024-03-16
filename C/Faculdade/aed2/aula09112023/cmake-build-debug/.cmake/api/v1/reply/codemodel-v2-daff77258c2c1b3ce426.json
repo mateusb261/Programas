@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aula09112023",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aula09112023::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula09112023-Debug-806946d4be425d837991.json",
+					"name" : "aula09112023",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula09112023/cmake-build-debug",
+		"source" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula09112023"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

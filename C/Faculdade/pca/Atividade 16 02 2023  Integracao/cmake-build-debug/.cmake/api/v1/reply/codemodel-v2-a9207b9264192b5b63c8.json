@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Atividade_16_02_2023__Integracao",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Atividade_16_02_2023__Integracao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Atividade_16_02_2023__Integracao-Debug-326f90106a4ce8c1acb0.json",
+					"name" : "Atividade_16_02_2023__Integracao",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 16 02 2023  Integracao/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 16 02 2023  Integracao"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

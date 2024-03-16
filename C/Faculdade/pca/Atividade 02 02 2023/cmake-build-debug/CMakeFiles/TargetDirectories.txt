@@ -1,0 +1,3 @@
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 02 02 2023/cmake-build-debug/CMakeFiles/Atividade_02_02_2023.dir
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 02 02 2023/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/mateu/CLionProjects/Atividade 02 02 2023/cmake-build-debug/CMakeFiles/rebuild_cache.dir

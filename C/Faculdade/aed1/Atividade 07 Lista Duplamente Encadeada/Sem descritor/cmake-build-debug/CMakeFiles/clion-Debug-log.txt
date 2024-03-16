@@ -1,0 +1,18 @@
+C:\Users\mateu\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S "/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor" -B "/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor/cmake-build-debug"
+-- Configuring done (0.2s)
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    /cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor/cmake-build-debug/CMakeFiles/Atividade_07_Lista_Duplamente_Encadeada.dir/./
+
+  has 252 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    main.c.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done (0.0s)
+-- Build files have been written to: /cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor/cmake-build-debug

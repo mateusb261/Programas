@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Atividade_07_Lista_Duplamente_Encadeada",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Atividade_07_Lista_Duplamente_Encadeada::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Atividade_07_Lista_Duplamente_Encadeada-Debug-66370fb033fee7c91783.json",
+					"name" : "Atividade_07_Lista_Duplamente_Encadeada",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor/cmake-build-debug",
+		"source" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Sem descritor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

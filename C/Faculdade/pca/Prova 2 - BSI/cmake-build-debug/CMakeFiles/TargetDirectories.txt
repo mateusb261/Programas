@@ -1,0 +1,3 @@
+/cygdrive/c/Users/mateu/CLionProjects/Prova 2 - BSI/cmake-build-debug/CMakeFiles/Prova_2___BSI.dir
+/cygdrive/c/Users/mateu/CLionProjects/Prova 2 - BSI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/mateu/CLionProjects/Prova 2 - BSI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

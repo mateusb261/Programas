@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Atividade_26_01_2023_Matrizes",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Atividade_26_01_2023_Matrizes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Atividade_26_01_2023_Matrizes-Debug-49398cf548a806347ec5.json",
+					"name" : "Atividade_26_01_2023_Matrizes",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 26 01 2023 Matrizes/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/mateu/CLionProjects/Atividade 26 01 2023 Matrizes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

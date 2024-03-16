@@ -1,0 +1,3 @@
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Com descritor/cmake-build-debug/CMakeFiles/Com_descritor.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Com descritor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 1/Atividade 07 Lista Duplamente Encadeada/Com descritor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

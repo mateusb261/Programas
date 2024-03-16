@@ -1,0 +1,4 @@
+C:\Users\mateu\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S "/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula31102023" -B "/cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula31102023/cmake-build-debug"
+-- Configuring done (1.0s)
+-- Generating done (0.4s)
+-- Build files have been written to: /cygdrive/d/Usuários/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula31102023/cmake-build-debug
