@@ -1,0 +1,14 @@
+body {
+            background-color: powderblue;
+        }
+        h1 {
+            color: blue;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+            font-size: 30px;
+        }
+        {
+            color: red;
+            font-family: "Courier New", Courier, monospace;
+            font-size: 10px;
+            border: 2px solid red;
+        }

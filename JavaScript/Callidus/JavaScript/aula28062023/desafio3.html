@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>Desafio 3</title>
+</head>
+<script type="text/javascript">
+    function media() {
+      var num1 = parseInt(window.prompt("Digite o primeiro número"));
+      var num2 = parseInt(window.prompt("Digite o segundo número"));
+      var num3 = parseInt(window.prompt("Digite o terceiro número"));
+      var numMaior;
+      var numMenor;
+
+      for (var i = 0; i < 3; i++) {
+        if (num1 > num2) {
+          numMaior = num1;
+          numMenor = num2;
+        }
+        else if (num1 < num2) {
+          numMaior = num2;
+          numMenor = num1;
+        }
+        else if (num1 = num2) {
+          numMaior = num1;
+          numMenor = num1;
+        }
+
+        if (num3 > numMaior) {
+          numMaior = num3;
+        }
+        else if (num3 < numMenor) {
+          numMenor = num3;
+        }
+      }
+      window.alert(`O número ${numMaior} é o maior número e o número ${numMenor} é o menor número`)
+    }
+</script>
+<body>
+    <h1 type="text/javascript">Maior e menor número</h1>
+    <button onclick="media()"> Clique aqui para começar </button>
+</body>
+</html>

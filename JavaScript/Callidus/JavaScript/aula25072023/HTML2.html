@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title> Formulario de soma</title>
+
+        <script language="JavaScript">
+            function calcula(form){
+                var soma = eval(form.campo1.value) + eval(form.campo2.value);
+                form.resultado.value = soma;
+            }
+        </script>
+    </head>
+    <body>
+        <form method="post">
+            Parcela 1:
+            <input type="text" name="campo1"> <p/>
+            Parcela 2:
+            <input type="text" name="campo2"> <p/>
+
+            <input type="button" value="Calcular" onclick="calcula(this.form)">
+            <input type="reset" name="resultado">
+        </form>
+
+    </body>
+</html>

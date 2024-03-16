@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title of the Document</title>
+</head>
+<body>
+    <a download="welcome.txt" href='#' id="link">Download</a>
+    <script>
+        let blob = new Blob(["Aula de JS"], {type: 'text/plain'});
+        link.href = URL.createObjectURL(blob);
+    </script>
+</body>
+</html>

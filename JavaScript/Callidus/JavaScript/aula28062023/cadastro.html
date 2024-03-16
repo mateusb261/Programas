@@ -1,0 +1,24 @@
+<html>
+    <head>
+      <title>Cadastro</title>
+    </head>
+    <script>
+        alert("Bem vindo ao site de teste. Faça seu registro")
+        var nome = prompt("Informe seu nome")
+        var email = prompt("Digite seu email")
+        var login = prompt("Digite seu login")
+        do {var senha1 = prompt("Digite sua senha")
+            var senha2 = prompt("Digite novamente sua senha")
+            if (senha1 != senha2) {
+                window.alert("Erro! As senhas não coincidem. Digite sua senha novamente")
+            }
+        } while (senha1 != senha2)
+
+
+        window.alert(`Olá ${nome}, seu login e ${login} e sua senha e ${senha1}`)
+    </script>
+
+    <body>
+        <h1>Login</h1>
+    </body>
+</html>

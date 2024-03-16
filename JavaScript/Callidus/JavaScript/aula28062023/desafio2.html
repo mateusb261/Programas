@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Desafio 2</title>
+</head>
+<script type="text/javascript">
+    function media() {
+        var nota1 = parseInt(window.prompt("Digite a primeira nota"))
+        var nota2 = parseInt(window.prompt("Digite a segunda nota"))
+        var media = (nota1 + nota2) / 2
+        if (media >= 7 && media != 10) {
+            window.alert("Aprovado");
+        }
+        else if (media < 7) {
+            window.alert("Reprovado");
+        }
+        else if (media == 10) {
+            window.alert("Aprovado com Distinção");
+        }
+    }
+</script>
+<body>
+    <h1 type="text/javascript">Média do aluno</h1>
+    <button onclick="media()"> Clique aqui para começar </button>
+</body>
+</html>

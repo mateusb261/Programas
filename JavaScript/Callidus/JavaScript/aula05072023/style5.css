@@ -1,0 +1,28 @@
+#elemento_pai{
+    width: 250px;
+    height: 250px;
+    background-color: #ccc;
+    position: relative;
+}
+
+.posrelativa{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+.posabsoluta{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.vermelho{
+    background-color: red;
+}

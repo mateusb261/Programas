@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de abertura de arquivo</title>
+</head>
+<body>
+    <input type="file" onclick="loadFile(this.files[0])">
+    <br>
+    <pre id="output"></pre>
+    <script>
+        async function loadFile(file) {
+            let text = await file.text();
+            document.getElementById("output").textContent = text;
+        }
+    </script>
+</body>
+</html>

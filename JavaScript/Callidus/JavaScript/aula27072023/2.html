@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title of the Document</title>
+</head>
+<body>
+    <script>
+        let link = document.createElement('a');
+        link.download = 'texte.txt';
+        let blob = new Blob(['Bem vinda a aula de JS'], {type: 'text/plain'});
+        link.href = URL.createObjectURL(blob);
+        link.click();
+        URL.revokeObjectURL(link.href);
+    </script>
+</body>
+</html>
