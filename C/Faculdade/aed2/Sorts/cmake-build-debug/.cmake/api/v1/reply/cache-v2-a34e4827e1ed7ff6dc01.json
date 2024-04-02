@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula07112023/cmake-build-debug"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/Sorts/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula07112023/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/Sorts/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula07112023"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/Sorts"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -703,7 +703,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "aula07112023"
+			"value" : "Sorts"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1094,19 +1094,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "aula07112023_BINARY_DIR",
+			"name" : "Sorts_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1115,10 +1103,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula07112023/cmake-build-debug"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/Sorts/cmake-build-debug"
 		},
 		{
-			"name" : "aula07112023_IS_TOP_LEVEL",
+			"name" : "Sorts_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1130,7 +1118,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "aula07112023_SOURCE_DIR",
+			"name" : "Sorts_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1139,7 +1127,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula07112023"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/Sorts"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",
