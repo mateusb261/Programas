@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(Trabalho_Prático___TP1_Avaliacao_empirica_de_desempenho_dos_algoritmos_de_ordenacao C)
+
+set(CMAKE_C_STANDARD 23)
+
+add_executable(Trabalho_Prático___TP1_Avaliacao_empirica_de_desempenho_dos_algoritmos_de_ordenacao main.c)

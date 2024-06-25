@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula20112023/cmake-build-debug"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/aula20112023/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula20112023/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/aula20112023/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula20112023"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/aula20112023"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula20112023/cmake-build-debug"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/aula20112023/cmake-build-debug"
 		},
 		{
 			"name" : "aula20112023_IS_TOP_LEVEL",
@@ -1139,7 +1139,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/cygdrive/d/Usu\u00e1rios/mateus/OneDrive - seducam.g12.br/Documentos/Programas/C/Faculdade/Algoritmos e Estruturas de Dados 2/aula20112023"
+			"value" : "/cygdrive/c/Users/mateu/Documents/GitHub/several/C/Faculdade/aed2/aula20112023"
 		}
 	],
 	"kind" : "cache",
